@@ -1,0 +1,68 @@
+body{
+    font-family: 'Lato', sans-serif;  
+}
+.orange-color{
+    color: orange;
+}
+
+.ash-color{
+    color: rgb(113, 105, 105);
+}
+h1{
+    font-size: 40px;
+    margin: 0;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;   
+}
+.top-section{
+    display: flex;
+    margin: 5%;
+}
+.half-width img{
+    width: 90%;   
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    padding: 12px 30px;
+    color: white;
+    border-radius: 30px;   
+}
+.my-recipies{
+    text-align: center;
+}
+.about-food{
+    width: 60%;
+    padding-left: 25%;
+    text-align: initial;
+}
+.flexible-container{
+    display: flex;
+}
+.recipies-title{
+   width: 30%;
+   margin-left: 3%;
+   margin-right: 3%;
+   margin-bottom: 3%;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-radius: 15px; 
+   box-shadow: 10px 10px 20px black; 
+}
+
+.food-network{
+    text-align: center;
+    background-image: linear-gradient(black, rgb(16, 16, 17));
+    color: white;
+    height: 150px;
+   padding-top: 3%;
+}
+.low-img{
+   width: 100%;
+   padding-top: 2%; 
+}
+
